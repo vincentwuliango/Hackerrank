@@ -1,3 +1,5 @@
+//Java Stdin and Stdout 1
+
 import java.util.Scanner;
 
 public class Easy2 {
